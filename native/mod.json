@@ -1,0 +1,10 @@
+{
+  "geode": "5.10.1",
+  "gd": {
+    "win": "2.2081"
+  },
+  "version": "1.0.0",
+  "id": "sebastian-anderson.gd-layout-stripper",
+  "name": "GD Layout Stripper",
+  "developer": "Sebastian Anderson"
+}

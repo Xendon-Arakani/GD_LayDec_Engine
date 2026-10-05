@@ -1,0 +1,237 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 233,
+    "sha256": "7707fc51bc19784e6d32cde0cea1d32352e882614cd50a8ff5b01aa5c6724d53"
+  },
+  {
+    "path": "bridge/__init__.py",
+    "bytes": 251,
+    "sha256": "bc07d14f3b7bb7d6c330f5180d437b74f008313237ead58cef416da731207a76"
+  },
+  {
+    "path": "bridge/catalogue.py",
+    "bytes": 15850,
+    "sha256": "ee793f2bc254669f01aa5c6a96cb087672654398758b7bd9fd26261536ef4c0c"
+  },
+  {
+    "path": "bridge/decimal_jobs.py",
+    "bytes": 6795,
+    "sha256": "585b4b09d53c6ac09ccdffc17c55131cc24316598e095ceac793837fbc728195"
+  },
+  {
+    "path": "bridge/effect_operations.py",
+    "bytes": 6756,
+    "sha256": "b386b4885b5210e2206384acfcd85082bc4001ea61b4d31cdc1299c76b1b3c1b"
+  },
+  {
+    "path": "bridge/level_effects.py",
+    "bytes": 110037,
+    "sha256": "02d015727e54f159e2f88b777848b2a4def0b38730e75eb910f3b88f7f6b3494"
+  },
+  {
+    "path": "bridge/local_levels.py",
+    "bytes": 15887,
+    "sha256": "0026fd37e329b60e05937bfbd553459294d285956aeb88f34a79ce99909968b9"
+  },
+  {
+    "path": "bridge/native_index.py",
+    "bytes": 9847,
+    "sha256": "1af5d933a95cd39a1f1f06ed1a91ea843ab09b62f1f7423371930af4fdf8ad3a"
+  },
+  {
+    "path": "bridge/removal_plan.py",
+    "bytes": 14122,
+    "sha256": "7baf1720cf16e89badcd42d489db5609c59a8a2a3cb0c813a928dbfc4ab07b74"
+  },
+  {
+    "path": "bridge/snapshot.py",
+    "bytes": 20267,
+    "sha256": "4139bbcc953cbb28296e99ae3c92329c1f4e0251e5d8354efdfb822195fb30e9"
+  },
+  {
+    "path": "gd/semantics/2.2081/catalogue.json",
+    "bytes": 11152733,
+    "sha256": "110f4d9936f375464e0805bb6928946ec7dc7d722fe5061980f9bc4125011005"
+  },
+  {
+    "path": "gd/semantics/2.2081/effects.json",
+    "bytes": 2640819,
+    "sha256": "24ce773f850ac728a9a47b76e4f73be1410fe348bcc9ae66d925c506b4642387"
+  },
+  {
+    "path": "licenses/CPython.txt",
+    "bytes": 36874,
+    "sha256": "e502c6b880ff58d614901495a9009c136539cd0b1e2a2abb8fc00b934c203419"
+  },
+  {
+    "path": "licenses/Expat.txt",
+    "bytes": 1144,
+    "sha256": "31b15de82aa19a845156169a17a5488bf597e561b2c318d159ed583139b25e87"
+  },
+  {
+    "path": "licenses/PyInstaller.txt",
+    "bytes": 32604,
+    "sha256": "0598064c7d2718e38d7914a7d08343b2fa008e3bea9ebba2aa7a6ffa5900dd64"
+  },
+  {
+    "path": "licenses/liblzma.txt",
+    "bytes": 2774,
+    "sha256": "073060d5c1ee43ee909638ed7dba5547161ab264f7859cfddef8a213ef6b67fe"
+  },
+  {
+    "path": "licenses/zlib.txt",
+    "bytes": 1002,
+    "sha256": "845efc77857d485d91fb3e0b884aaa929368c717ae8186b66fe1ed2495753243"
+  },
+  {
+    "path": "ml/__init__.py",
+    "bytes": 24,
+    "sha256": "8eea9df4f6d7b38ca0e39ccc27b04700e3d08dbeec8046d613d22706d19985fa"
+  },
+  {
+    "path": "ml/effect_graph.py",
+    "bytes": 8481,
+    "sha256": "4d1dc1403464b7b15ff3100d9def3d85158eee522bccfc9d680afd3ff3480d2f"
+  },
+  {
+    "path": "ml/effect_targeting.py",
+    "bytes": 2625,
+    "sha256": "a794f5eb501f16e37e7317c296caf6a1776763ee9a7d618cd546d18c8fac6f99"
+  },
+  {
+    "path": "native/CMakeLists.txt",
+    "bytes": 3136,
+    "sha256": "a1f6ce3abab2dd41f47c7cdea21c30239b7eb46b8cea95040dd050cc48f6d42a"
+  },
+  {
+    "path": "native/mod.json",
+    "bytes": 199,
+    "sha256": "0deadc74d783fc942a790876e1e93da627f377f8f9d7ba28386e3cd069db3dab"
+  },
+  {
+    "path": "native/src/deco_toggle.cpp",
+    "bytes": 124876,
+    "sha256": "d36cb3d86360156d3704c0ae6a7c1ea725bc8fd95ef6bc8cd72bd43e94a95210"
+  },
+  {
+    "path": "native/src/deco_toggle.hpp",
+    "bytes": 765,
+    "sha256": "29d01605eb714a6823367eb2630382b42be454cb9b801f81277bf72cc6ef075a"
+  },
+  {
+    "path": "native/src/highlight_system.cpp",
+    "bytes": 17874,
+    "sha256": "e6592e46624f7f9c67ab3d7d1be6f13640dec0872f0ac58be704f41edd9f05b3"
+  },
+  {
+    "path": "native/src/highlight_system.hpp",
+    "bytes": 558,
+    "sha256": "cd851622a253b4270f55b66a0825599d77bea4d010d522643bd9dca5976a29a0"
+  },
+  {
+    "path": "native/src/main.cpp",
+    "bytes": 8485,
+    "sha256": "aef09dfdd769341bc9ee467bed37e5c8bb818efb6d99f0688595819972b73341"
+  },
+  {
+    "path": "native/src/native_graph.hpp",
+    "bytes": 16440,
+    "sha256": "627c66eabca176a4edb6b71c755532545d6bc08bc8f9798b6215ead4dffcf5e0"
+  },
+  {
+    "path": "native/src/native_worker.cpp",
+    "bytes": 24830,
+    "sha256": "29e54bdbbe4ac3f68ef5fb976f2a8d4bd868162ef43eac696481868bad00aa15"
+  },
+  {
+    "path": "native/src/prior_style.cpp",
+    "bytes": 14918,
+    "sha256": "ed50be98b969de4bd16d5b393cb18671597514a6f02c9b8bab02ae4a37e493b0"
+  },
+  {
+    "path": "native/src/prior_style.hpp",
+    "bytes": 99,
+    "sha256": "0a26373c1759670de1a1e54c70c25a396c5c909faf3f33953d980481e35b04f5"
+  },
+  {
+    "path": "native/src/worker.rc.in",
+    "bytes": 33,
+    "sha256": "ffc7533dadb65962df3f8540e56f9a00b0ffb1765b07d4d35001f270519a47ba"
+  },
+  {
+    "path": "pyproject.toml",
+    "bytes": 216,
+    "sha256": "917e8508da83b6bf9023f2aaacdec5d0fb05e5945bbcd4a2a7db7af129f25412"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 15,
+    "sha256": "de392e13de66e90121bae7f88b1ec72b1a0c02bd0fcb23f9e5c8f52c350986f9"
+  },
+  {
+    "path": "scripts/build_runtime.py",
+    "bytes": 3353,
+    "sha256": "23c4a61bfbe7e2deb2bc866ab593dfe11cb5d3da0de46ed9cffbc2693c77e560"
+  },
+  {
+    "path": "scripts/compile_layout.py",
+    "bytes": 2233,
+    "sha256": "26bbe8caacb97a0c9594c50cfb082adbe76bc35c45de9b0405626767f4b7cae3"
+  },
+  {
+    "path": "scripts/decimal_status.py",
+    "bytes": 1466,
+    "sha256": "6a7a233b38ab17e39a99c73fa20c46c04b9321bd280a1e6141faafff5eddf898"
+  },
+  {
+    "path": "scripts/file_extract.py",
+    "bytes": 4339,
+    "sha256": "0edb05ece33b46d62b59c766b2eaf9921e06fbf50bd6fa5954914f3d1d7e2914"
+  },
+  {
+    "path": "scripts/gen_native.py",
+    "bytes": 3955,
+    "sha256": "58d50be4912fd003cc16a93ea903e6c2a1291c693ee14e2e3dff26280bcc5192"
+  },
+  {
+    "path": "scripts/inspect_select.py",
+    "bytes": 2486,
+    "sha256": "b0e180c71095d52807b2be193f8d215da080dae20b5f00fdb828812d83f6ee27"
+  },
+  {
+    "path": "scripts/install_runtime.py",
+    "bytes": 4746,
+    "sha256": "b702c8f5a6016492ec4f58b4329a2c15bc7502aa81fffab2b0d72b9015eafadf"
+  },
+  {
+    "path": "scripts/make_plan.py",
+    "bytes": 2821,
+    "sha256": "27f6472f53ebfcff4f0490dffb687d4a274a7eff4b9bb681e38ba3a5327fedae"
+  },
+  {
+    "path": "scripts/run_decimal.py",
+    "bytes": 11859,
+    "sha256": "c9369d6ab39fe5b9714f5626b089b787f9ee833e390ae6210cd198a64cd1c4f4"
+  },
+  {
+    "path": "scripts/run_highlight.py",
+    "bytes": 23911,
+    "sha256": "9cda89c7cbd78dde881da86a3137e218db37779281b1d9ebd816aa9cb22338ae"
+  },
+  {
+    "path": "scripts/runtime.py",
+    "bytes": 3663,
+    "sha256": "028c204b413ca90aa65486b839e5eb12f5a124b37e2e15222ecbae1af9c6b33a"
+  },
+  {
+    "path": "scripts/scan_levels.py",
+    "bytes": 13887,
+    "sha256": "2e6bb1abcc5fbbe2418c58f5ae96b43b0369ce070d2c8e7dd9939303ee6bfd3c"
+  },
+  {
+    "path": "tests/are_comments.py",
+    "bytes": 3683,
+    "sha256": "7e160524914a117a41c98b5d2e485d55260374731525a93cde3e349fed9e98e6"
+  }
+]

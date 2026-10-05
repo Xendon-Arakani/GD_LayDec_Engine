@@ -1,0 +1,59 @@
+{
+  "version": "0.0.1-progress.2",
+  "minimum_workflow_status": "pass",
+  "tests": [
+    {
+      "id": "packaged_runtime_identity",
+      "status": "pass"
+    },
+    {
+      "id": "dependency_preserving_strip",
+      "status": "pass"
+    },
+    {
+      "id": "exact_retained_records",
+      "status": "pass"
+    },
+    {
+      "id": "input_preserved",
+      "status": "pass"
+    },
+    {
+      "id": "reported_output_hash",
+      "status": "pass"
+    },
+    {
+      "id": "existing_output_rejected",
+      "status": "pass"
+    },
+    {
+      "id": "unknown_object_rejected",
+      "status": "pass"
+    },
+    {
+      "id": "mapped_dependency_counts",
+      "status": "pass"
+    }
+  ],
+  "package_manifest_verified": true,
+  "artifact_hashes_verified": true,
+  "input_preserved": true,
+  "physical_gameplay_verified": false,
+  "clean_machine_verified": false,
+  "limitation_codes": [
+    "GD_MOD_NOT_INCLUDED",
+    "MODEL_NOT_INCLUDED",
+    "TRAINING_DISABLED",
+    "GENERATION_DISABLED",
+    "EDITOR_APPLY_UNVERIFIED",
+    "CLEAN_MACHINE_UNVERIFIED",
+    "FRESH_CORE_REGRESSION_INPUTS_MISSING"
+  ],
+  "release_stage": "progress",
+  "source_metadata_cleanup_verified": true,
+  "sha256": {
+    "source_snapshot": "ad72f6e64c75d341e5f5a78604436544830d7b90b0f8f676fa5c23befa04cb58",
+    "package": "8743465411e998915a532b6c9ea236d86eb16ff458a64ad420fd3e4d3fd5d31c",
+    "executable": "2a5c8158a6f60819c7d3aa1f1e92d2344493d529006443efd26c72696938186b"
+  }
+}
